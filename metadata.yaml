@@ -1,0 +1,36 @@
+_repo: Early-Letters-of-George-Wm-Curtis-to-John-S-Dwight-Brook-Farm-and-Concord_8222
+alternative_title: Early Letters of George William Curtis to John S. Dwight; Brook
+  Farm and Concord
+contributor:
+  creator:
+    editor:
+      agent_name: Cooke, George Willis
+      birthdate: 1848
+      deathdate: 1923
+      gutenberg_agent_id: '2826'
+      url: http://www.gutenberg.org/2009/agents/2826
+creator:
+  author:
+    agent_name: Curtis, George William
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '2048'
+    url: http://www.gutenberg.org/2009/agents/2048
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 19th century -- Correspondence'
+- !lcsh 'Dwight, John Sullivan, 1813-1893 -- Correspondence'
+- !lcc 'PS'
+- !lcsh 'Curtis, George William, 1824-1892 -- Correspondence'
+- !lcsh 'Brook Farm Phalanx (West Roxbury, Boston, Mass.)'
+title: Early Letters of George Wm. Curtis to John S. Dwight; Brook Farm and Concord
+url: http://www.gutenberg.org/ebooks/8222
